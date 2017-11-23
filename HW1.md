@@ -14,7 +14,7 @@
 
 문장 1 과 문장 2를 1번~3번 가설에 맞는 조건으로 비교하여 긴문장과 짧은 문장이 결과에 영향을 미치는지 확인하고 각 가설별로 조건에 맞게 바뀐 문장과 기본문장을 비교하여 각 가설이 맞는지 증명한다.
 
- ### <문장1>
+### <문장1>
 
 In conclusion, I took a very pleasant surprise with Thor, and I can recommend it as a very good re-invention of a difficult to handle superhero. It might not be a great film, but it definitely made me have a good time. 
 
@@ -68,7 +68,7 @@ Probability: 0.52
 
 긴 문장은 기호를 뺐더니 감정은 바뀌지 않았지만 probability가 0.01이 높아졌다. 짧은 문자은 기본 문장에 기호를 추가하였더니 sentiment가 긍정에서 부정으로 바뀌었으며 Probability가 내려갔다. 이 결과에 따라 유추해보면 문장에 기호가 많은 수록 Probability가 되며 문장 내용과 상관없이 감성이 부정정으로 바뀌는 것을 볼 수 있다. 따라서 1번 가설은 사실이라고 결론 지었다.
 
- - - - 
+- - - 
 
 ## 가설2. 문장에 최상급 표현이 많으면 probability가 높아질 것이다.
 
