@@ -14,7 +14,7 @@
 
 문장 1 과 문장 2를 1번~3번 가설에 맞는 조건으로 비교하여 긴문장과 짧은 문장이 결과에 영향을 미치는지 확인하고 각 가설별로 조건에 맞게 바뀐 문장과 기본문장을 비교하여 각 가설이 맞는지 증명한다.
 
- ## <문장1>
+ ### <문장1>
 
 In conclusion, I took a very pleasant surprise with Thor, and I can recommend it as a very good re-invention of a difficult to handle superhero. It might not be a great film, but it definitely made me have a good time. 
 
@@ -24,7 +24,7 @@ Probability: 0.84
 
  
 
-## <문장2>
+### <문장2>
 
 I like the movie
 
@@ -40,7 +40,7 @@ Probability: 0.54
 
  각 기본 문장에서 기호들을 빼고 다시 코딩을 돌렸을 때 결과는 다음과 같다.
 
-## <문장1>
+### <문장1>
 
 In conclusion I took a very pleasant surprise with Thor and I can recommend it as a very good reinvention of a difficult to handle superhero It might not be a great film but it definitely made me have a good time.
 
@@ -48,7 +48,7 @@ Predicted sentiment: Positive
 
 Probability: 0.86
 
-## <문장2>
+### <문장2>
 
 I like the movie!!!!
 
@@ -74,7 +74,7 @@ Probability: 0.52
 
  각 기본 문장에 최상급 표현을 추가하여 나온 결과는 다음과 같다.
 
-## <문장1>
+### <문장1>
 
 In conclusion, I took the most pleasant surprise with Thor, and I can recommend it as the best re-invention of a difficult to handle superhero. It might the worst film, but it definitely made me have the best time.
 
@@ -82,7 +82,7 @@ Predicted sentiment: Positive
 
 Probability: 0.52
 
-## <문장2>
+### <문장2>
 
 "I like the movie the most"
 
@@ -97,7 +97,7 @@ Probability: 0.51
 
 ## 가설3. 문장에 대문자가 많으면 probability가 낮아질 것이다.
 
-## <문장1>
+### <문장1>
 
 IN CONCLUSION, I TOOK AVERY PLEASANT SURPRISE WITH THOR, AND I CAN RECOMEND IT AS A VERY GOOD RE-INVENTION OF A DIFFICULT TO SUPERHERO. It might not be a great film, but it definitely made me have a good time.
 
@@ -115,7 +115,7 @@ Probability: 0.5
 
  
 
-## <문장2>
+### <문장2>
 
 I LIKE THE MOVIE
 
